@@ -4,5 +4,7 @@ def main():
 
     print("A second print statement")
 
+    print("This is a branch statement")
+
 if __name__ == "__main__":
     main()
